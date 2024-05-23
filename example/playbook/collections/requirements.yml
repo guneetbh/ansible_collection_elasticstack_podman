@@ -2,6 +2,9 @@
 collections:
   - name: containers.podman
     version: ">=1.5.0"
-  - name: abalage.elasticstack_podman
-    version: ">=1.0.0"
+  # - name: abalage.elasticstack_podman
+  #   version: ">=1.0.0"
 #    source: git+https://github.com/abalage/ansible_collection_elasticstack_podman.git
+
+
+#https://github.com/abalage/ansible_collection_elasticstack_podman
